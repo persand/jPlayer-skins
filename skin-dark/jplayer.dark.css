@@ -23,6 +23,8 @@ div.jp-video {
 	font-size: 1em; /* No parent CSS that can effect the size in these demos */
 	font-family: 'Helvetica Neue', sans-serif;
 	line-height: 1.6;	
+	-ms-text-size-adjust:none;
+	-webkit-text-size-adjust:none;
 }
 
 div.jp-audio {
